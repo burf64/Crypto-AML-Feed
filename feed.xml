@@ -1,9 +1,381 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version='2.0'>
 <channel>
-<title>TRM Labs Blog (auto RSS)</title>
-<link>https://www.trmlabs.com/resources/blog</link>
-<description>Automated RSS feed for TRM Labs blog (sanctions / AML / crypto compliance).</description>
-<lastBuildDate>Wed, 22 Oct 2025 20:26:47 -0000</lastBuildDate>
+<title>Crypto-Sanctions / AML Feed</title>
+<link>https://github.com/</link>
+<description>Merged automated feed: TRM Labs + Chainalysis + Elliptic + AML sources</description>
+<lastBuildDate>Wed, 22 Oct 2025 20:37:39 -0000</lastBuildDate>
+<item>
+<title>September 2025 Product Highlights: Faster Insights, Broader Coverage (TRM Labs)</title>
+<link>https://www.trmlabs.com/resources/blog/september-2025-product-highlights-faster-insights-broader-coverage</link>
+<description>TRM Labs delivers blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide</description>
+<pubDate>Wed, 22 Oct 2025 20:37:29 -0000</pubDate>
+<guid isPermaLink='true'>https://www.trmlabs.com/resources/blog/september-2025-product-highlights-faster-insights-broader-coverage</guid>
+</item>
+<item>
+<title>Brazil’s Federal Police Dismantle $540 Million Crypto Laundering Network in “Operation Lusocoin” (TRM Labs)</title>
+<link>https://www.trmlabs.com/resources/blog/brazils-federal-police-dismantle-540-million-crypto-laundering-network-in-operation-lusocoin</link>
+<description>TRM Labs delivers blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide</description>
+<pubDate>Wed, 22 Oct 2025 20:37:29 -0000</pubDate>
+<guid isPermaLink='true'>https://www.trmlabs.com/resources/blog/brazils-federal-police-dismantle-540-million-crypto-laundering-network-in-operation-lusocoin</guid>
+</item>
+<item>
+<title>Historic U.S.–U.K. Operation Targets Southeast Asia’s Scam Compounds with Record $15 Billion Bitcoin Seizure (TRM Labs)</title>
+<link>https://www.trmlabs.com/resources/blog/historic-u-s--u-k-operation-targets-southeast-asias-scam-compounds-with-record-15-billion-bitcoin-seizure</link>
+<description>TRM Labs delivers blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide</description>
+<pubDate>Wed, 22 Oct 2025 20:37:29 -0000</pubDate>
+<guid isPermaLink='true'>https://www.trmlabs.com/resources/blog/historic-u-s--u-k-operation-targets-southeast-asias-scam-compounds-with-record-15-billion-bitcoin-seizure</guid>
+</item>
+<item>
+<title>Operation Prince: Inside the Global Effort That Led to the Largest Forfeiture in US History (TRM Labs)</title>
+<link>https://www.trmlabs.com/resources/blog/operation-prince-inside-the-global-effort-that-led-to-the-largest-forfeiture-in-us-history</link>
+<description>TRM Labs delivers blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide</description>
+<pubDate>Wed, 22 Oct 2025 20:37:29 -0000</pubDate>
+<guid isPermaLink='true'>https://www.trmlabs.com/resources/blog/operation-prince-inside-the-global-effort-that-led-to-the-largest-forfeiture-in-us-history</guid>
+</item>
+<item>
+<title>TRM Labs Partners With Cyber Security Agency of Singapore to Advance National Cyber Threat Intelligence in the Blockchain Space (TRM Labs)</title>
+<link>https://www.trmlabs.com/resources/blog/trm-labs-partners-with-cyber-security-agency-of-singapore-to-advance-national-cyber-threat-intelligence-in-the-blockchain-space</link>
+<description>TRM Labs delivers blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide</description>
+<pubDate>Wed, 22 Oct 2025 20:37:29 -0000</pubDate>
+<guid isPermaLink='true'>https://www.trmlabs.com/resources/blog/trm-labs-partners-with-cyber-security-agency-of-singapore-to-advance-national-cyber-threat-intelligence-in-the-blockchain-space</guid>
+</item>
+<item>
+<title>Understanding Address Poisoning on the TRON Blockchain (TRM Labs)</title>
+<link>https://www.trmlabs.com/resources/blog/understanding-address-poisoning-on-the-tron-blockchain</link>
+<description>TRM Labs delivers blockchain intelligence to detect crypto-facilitated crime, ensuring compliance and safety worldwide</description>
+<pubDate>Wed, 22 Oct 2025 20:37:29 -0000</pubDate>
+<guid isPermaLink='true'>https://www.trmlabs.com/resources/blog/understanding-address-poisoning-on-the-tron-blockchain</guid>
+</item>
+<item>
+<title>Chainalysis Hexagate Now Supports Plasma with Real-time Smart Contract Security Detection (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/hexagate-plasma-support-real-time-smart-contract-security-detection/</link>
+<description>&lt;p&gt;We’re excited to share that Chainalysis Hexagate now supports the Plasma ecosystem, bringing real-time smart contract security solutions to builders&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/hexagate-plasma-support-real-time-smart-contract-security-detection/"&gt;Chainalysis Hexagate Now Supports Plasma with Real-time Smart Contract Security Detection&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Wed, 22 Oct 2025 12:58:26 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/hexagate-plasma-support-real-time-smart-contract-security-detection/</guid>
+</item>
+<item>
+<title>Suspicious Activity Reports – What New Guidance Means for Financial Institutions (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/10/suspicious-activity-reports-what-new-guidance-means-for-financial-institutions/</link>
+<description>On October 9, 2025, the Financial Crimes Enforcement Network (“FinCEN”) jointly issued updated Frequently Asked Questions (“FAQs”) with the Federal Reserve Board of Governors, the Federal Deposit Insurance Corporation, the National Credit Union Administration, and the Office of the Comptroller of the Currency, clarifying the circumstances under which financial institutions must file suspicious activity reports...</description>
+<pubDate>Tue, 21 Oct 2025 22:53:07 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/10/suspicious-activity-reports-what-new-guidance-means-for-financial-institutions/</guid>
+</item>
+<item>
+<title>Why government agencies should own their blockchain intelligence data (Elliptic)</title>
+<link>https://www.elliptic.co/blog/why-government-agencies-should-own-their-blockchain-intelligence-data</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/why-government-agencies-should-own-their-blockchain-intelligence-data" title=""&gt; &lt;img alt="Why government agencies should own their blockchain intelligence data" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LP_Blog_Government_Agenvy_Data_Ownership.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p&gt;Government agencies now have access to blockchain intelligence capabilities that were impossible just a few years ago. Where investigators once had to work within the constraints of third-party platforms designed for individual transaction tracing, they can now run comprehensive intelligence operations across complete blockchain datasets.&lt;/p&gt;</description>
+<pubDate>Tue, 21 Oct 2025 13:00:01 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/why-government-agencies-should-own-their-blockchain-intelligence-data</guid>
+</item>
+<item>
+<title>Crypto and Crime: Inside the FBI’s Virtual Assets Unit: Podcast Ep. 172 (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/inside-the-fbi-virtual-assets-unit-crypto-crime-ep-172/</link>
+<description>&lt;p&gt;The FBI created the Virtual Assets Unit to spearhead the agency’s efforts alongside a network of distributed experts to combat&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/inside-the-fbi-virtual-assets-unit-crypto-crime-ep-172/"&gt;Crypto and Crime: Inside the FBI’s Virtual Assets Unit: Podcast Ep. 172&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Tue, 21 Oct 2025 11:02:30 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/inside-the-fbi-virtual-assets-unit-crypto-crime-ep-172/</guid>
+</item>
+<item>
+<title>FinCEN Renews Geographic Targeting Order (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/10/fincen-renews-geographic-targeting-order/</link>
+<description>On October 9, 2025, the Financial Crimes Enforcement Network (“FinCEN”) issued a renewal of its Geographic Targeting Order (“GTOs”), which require U.S. title insurance companies, including their subsidiaries and agents, to collect, retain, and report specified information regarding certain non-financed residential real estate transactions involving legal entities. The new GTO is effective from October 10,...</description>
+<pubDate>Fri, 17 Oct 2025 13:16:44 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/10/fincen-renews-geographic-targeting-order/</guid>
+</item>
+<item>
+<title>Following the Money with Chainalysis: 7 Questions for Usman Rehman (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/following-the-money-with-chainalysis-usman-rehman-rain/</link>
+<description>&lt;p&gt;Following the Money is a Q&amp;#38;A series that spotlights how Chainalysis customers use our products in the real world —&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/following-the-money-with-chainalysis-usman-rehman-rain/"&gt;Following the Money with Chainalysis: 7 Questions for Usman Rehman&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Fri, 17 Oct 2025 12:58:04 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/following-the-money-with-chainalysis-usman-rehman-rain/</guid>
+</item>
+<item>
+<title>How Colombia’s National Police Dismantled the Clan del Golfo’s ‘Black Jack’ Crypto Laundering Network (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/columbia-national-police-dismantled-crypto-laundering-network/</link>
+<description>&lt;p&gt;In a landmark international operation, the Policía Nacional de Colombia (PNC), in coordination with the Spanish Civil Guard, Europol, and&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/columbia-national-police-dismantled-crypto-laundering-network/"&gt;How Colombia’s National Police Dismantled the Clan del Golfo&amp;#8217;s &amp;#8216;Black Jack&amp;#8217; Crypto Laundering Network&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Fri, 17 Oct 2025 11:58:39 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/columbia-national-police-dismantled-crypto-laundering-network/</guid>
+</item>
+<item>
+<title>Elliptic’s Typologies Report: Detecting the money flows behind the global pig butchering ecosystem (Elliptic)</title>
+<link>https://www.elliptic.co/blog/elliptics-typologies-report-detecting-the-money-flows-behind-the-global-pig-butchering-ecosystem</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/elliptics-typologies-report-detecting-the-money-flows-behind-the-global-pig-butchering-ecosystem" title=""&gt; &lt;img alt="A broken heart leading to several bags of money to visualize a pig butchering scam" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LP_Blog_Typologies_report_Pig_Butchering.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p&gt;In recent years, the growing scale and profitability of so-called &lt;a href="https://www.elliptic.co/blog/analysis/pig-butchering-using-blockchain-analytics-to-detect-and-disrupt-fraudsters"&gt;&lt;span&gt;pig butchering scams&lt;/span&gt;&lt;/a&gt; has sparked increasing concern among law enforcement and regulatory agencies around the world.&amp;nbsp;&lt;/p&gt;</description>
+<pubDate>Fri, 17 Oct 2025 10:57:54 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/elliptics-typologies-report-detecting-the-money-flows-behind-the-global-pig-butchering-ecosystem</guid>
+</item>
+<item>
+<title>European Crypto Adoption Highlights a Patchwork of Convergence and Transformation (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/europe-crypto-adoption-2025/</link>
+<description>&lt;p&gt;Note on our methodology: In previous reports, we have treated Central, Northern &amp;#38; Western Europe and Eastern Europe as separate&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/europe-crypto-adoption-2025/"&gt;European Crypto Adoption Highlights a Patchwork of Convergence and Transformation&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Thu, 16 Oct 2025 11:40:33 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/europe-crypto-adoption-2025/</guid>
+</item>
+<item>
+<title>New UN report highlights China’s alleged targeting of human rights activists (ICIJ)</title>
+<link>https://www.icij.org/investigations/china-targets/new-un-report-highlights-chinas-alleged-targeting-of-human-rights-activists/</link>
+<description>The report, which recounts recent reprisals from two dozen countries, underscores ICIJ’s reporting on how Beijing abuses international institutions in its campaign to silence critics abroad.</description>
+<pubDate>Thu, 16 Oct 2025 01:19:52 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/investigations/china-targets/new-un-report-highlights-chinas-alleged-targeting-of-human-rights-activists/</guid>
+</item>
+<item>
+<title>東南アジアの大規模暗号資産詐欺ネットワークが米英の経済制裁・資金没収の対象に (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/southeast-asia-crypto-scam-network-mining-pig-butchering-october-2025-japanese/</link>
+<description>&lt;p&gt;※この記事は自動翻訳されています。正確な内容につきましては原文をご参照ください。 要約 OFACはPrince Group TCOおよび関連する146の対象者を、ロマンス詐欺（pig butchering）を含む大規模な詐欺事業の運営に関与しているとして制裁指定しました。その中にはChen Zhi個人も含まれます。 このネットワークの暗号資産関連オペレーションには、Warp Data Technologyを通じたビットコインのマイニングや、詐欺で得た資金のマネーロンダリングが含まれています。 主要な金融サービスプロバイダーであるHuione Groupは、40億ドル超の不正暗号資産収益の洗浄を行い、過去4年半で980億ドル以上の暗号資産流入を処理した後、米国の金融システムから遮断されました。 米国司法省（DOJ）は、米国保管下にある150億ドル相当のビットコインが関わる過去最大規模の没収事件を開始しました。 &amp;#160; 2025年10月14日、米国財務省外国資産管理局（OFAC）と金融犯罪取締ネットワーク（FinCEN）は、英国外務・英連邦・開発省（FCDO）と連携し、東南アジアで活動する暗号資産を利用した詐欺ネットワークに対し措置を講じました。この制裁指定には、Prince Group TCOおよびChen Zhiを含む大規模な関連企業・個人ネットワークが含まれ、暗号資産詐欺、マイニング事業、マネーロンダリング等に関与しています。また、英国の金融制裁執行局（OFSI）は、Jin Bei Group&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/southeast-asia-crypto-scam-network-mining-pig-butchering-october-2025-japanese/"&gt;東南アジアの大規模暗号資産詐欺ネットワークが米英の経済制裁・資金没収の対象に&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Tue, 14 Oct 2025 22:39:16 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/southeast-asia-crypto-scam-network-mining-pig-butchering-october-2025-japanese/</guid>
+</item>
+<item>
+<title>DOJ Seizes $15 Billion in Bitcoin as U.S. and U.K. Target Massive Southeast Asian Crypto Scam Network (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/southeast-asia-crypto-scam-network-mining-pig-butchering-october-2025/</link>
+<description>&lt;p&gt;TL;DR OFAC has designated the Prince Group TCO and 146 associated targets for operating massive &amp;#8220;pig butchering&amp;#8221; scam operations, including&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/southeast-asia-crypto-scam-network-mining-pig-butchering-october-2025/"&gt;DOJ Seizes $15 Billion in Bitcoin as U.S. and U.K. Target Massive Southeast Asian Crypto Scam Network&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Tue, 14 Oct 2025 20:04:46 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/southeast-asia-crypto-scam-network-mining-pig-butchering-october-2025/</guid>
+</item>
+<item>
+<title>$15 billion seized by US originates from Iran/China bitcoin miner "theft" (Elliptic)</title>
+<link>https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft" title=""&gt; &lt;img alt="An image of money bags, a pickaxe, and the Bitcoin logo on rocks" class="hs-featured-image" src="https://www.elliptic.co/hubfs/AI-Generated%20Media/Images/Bitcoin%20mining%20and%20a%20network%20of%20money%20laundering-1.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;The US Department of Justice (DOJ) today announced the seizure of bitcoin worth $15 billion&amp;nbsp;from Prince Group's operation of forced-labor scam compounds across Cambodia.&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong style="background-color: transparent; color: #212529;"&gt;Elliptic’s analysis shows that these bitcoins were “stolen” in 2020 from LuBian, a bitcoin mining business with operations in China and Iran.&lt;br /&gt;&lt;/strong&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+<pubDate>Tue, 14 Oct 2025 17:24:02 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft</guid>
+</item>
+<item>
+<title>Prince Group targeted with $15B crypto seizure and sanctions for pig butchering operations (Elliptic)</title>
+<link>https://www.elliptic.co/blog/prince-group-targeted-with-crypto-sanctions-for-global-pig-butchering-operations</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/prince-group-targeted-with-crypto-sanctions-for-global-pig-butchering-operations" title=""&gt; &lt;img alt="An image of the Treasury Department building" class="hs-featured-image" src="https://www.elliptic.co/hubfs/shutterstock_2534552487.jpeg" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;&lt;strong&gt;New sanctions target the Prince Group Transnational Criminal Organization, for its involvement in online scams such as pig butchering.&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Elliptic has identified crypto wallets associated with the newly-sanctioned entities, which have received transactions worth billions of dollars.&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/li&gt; 
+ &lt;li&gt;&lt;strong&gt;Prince Group chairman Chen Zhi was also indicted in a U.S. court today, and has had $15 billion in Bitcoin seized. These bitcoins were previously "stolen" from a Chinese bitcoin mining business.&lt;/strong&gt;&lt;/li&gt; 
+&lt;/ul&gt; 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+<pubDate>Tue, 14 Oct 2025 15:42:06 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/prince-group-targeted-with-crypto-sanctions-for-global-pig-butchering-operations</guid>
+</item>
+<item>
+<title>Crypto regulatory affairs: UK lifts ban on crypto ETNs for retail investors as government makes digital asset innovation push (Elliptic)</title>
+<link>https://www.elliptic.co/blog/crypto-regulatory-affairs-uk-lifts-ban-on-crypto-etns-for-retail-investors</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/crypto-regulatory-affairs-uk-lifts-ban-on-crypto-etns-for-retail-investors" title=""&gt; &lt;img alt="Crypto Regulatory Affairs October 2025 (1)" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LP_Blog_Reg_Affairs_October_1.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;h2 style="font-weight: normal;"&gt;UK lifts ban on crypto ETNs for retail investors as government makes digital asset innovation push&lt;/h2&gt; 
+&lt;p&gt;The UK’s Financial Conduct Authority (FCA) has formally lifted a ban on the offering of cryptoasset exchange traded notes (cETNs) to retail investors - an important indication that the UK is responding to changing market dynamics in an effort to boost innovation and growth.&amp;nbsp;&lt;/p&gt;</description>
+<pubDate>Tue, 14 Oct 2025 14:50:00 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/crypto-regulatory-affairs-uk-lifts-ban-on-crypto-etns-for-retail-investors</guid>
+</item>
+<item>
+<title>How Coinbase’s Proactive Fentanyl Investigation Sprint Disrupted Criminal Networks with Chainalysis Intelligence (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/coinbase-fentanyl-investigation-sprint-2/</link>
+<description>&lt;p&gt;The synthetic opioid crisis continues to devastate communities across the United States, with fentanyl-related deaths contributing to tens of thousands&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/coinbase-fentanyl-investigation-sprint-2/"&gt;How Coinbase’s Proactive Fentanyl Investigation Sprint Disrupted Criminal Networks with Chainalysis Intelligence&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Tue, 14 Oct 2025 11:58:16 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/coinbase-fentanyl-investigation-sprint-2/</guid>
+</item>
+<item>
+<title>Follow the money, not the drugs: Why crypto makes drug investigations easier, not harder (Elliptic)</title>
+<link>https://www.elliptic.co/blog/follow-the-money-not-the-drugs-why-crypto-makes-drug-investigations-easier-not-harder</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/follow-the-money-not-the-drugs-why-crypto-makes-drug-investigations-easier-not-harder" title=""&gt; &lt;img alt="Follow the money, not the drugs: Why crypto makes drug investigations easier, not harder" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LI_Blog_Follow_the_money_not_the_drugs.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p&gt;Investigators who want to dismantle entire drug trafficking networks know it won't happen by catching a few dealers with narcotics in a car. High-level drug dealers rarely handle drugs directly; they insulate themselves from the physical product. What they do control is the financial infrastructure that sustains the entire operation.&lt;/p&gt;</description>
+<pubDate>Mon, 13 Oct 2025 11:08:04 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/follow-the-money-not-the-drugs-why-crypto-makes-drug-investigations-easier-not-harder</guid>
+</item>
+<item>
+<title>Arab states deepened military ties with Israel while denouncing Gaza war, leak reveals (ICIJ)</title>
+<link>https://www.icij.org/news/2025/10/arab-states-deepened-military-ties-with-israel-while-denouncing-gaza-war-leak-reveals/</link>
+<description>Israeli and Arab military officials have come together for meetings and trainings, facilitated by U.S. Central Command, on regional threats, Iran and underground tunnels.</description>
+<pubDate>Sat, 11 Oct 2025 14:27:13 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/10/arab-states-deepened-military-ties-with-israel-while-denouncing-gaza-war-leak-reveals/</guid>
+</item>
+<item>
+<title>Following the Money with Chainalysis: 7 Questions for Prashant Kalia (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/following-the-money-with-chainalysis-prashant-kalia-flutterwave/</link>
+<description>&lt;p&gt;Following the Money is a Q&amp;#38;A series that spotlights how Chainalysis customers use our products in the real world —&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/following-the-money-with-chainalysis-prashant-kalia-flutterwave/"&gt;Following the Money with Chainalysis: 7 Questions for Prashant Kalia&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Fri, 10 Oct 2025 12:30:34 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/following-the-money-with-chainalysis-prashant-kalia-flutterwave/</guid>
+</item>
+<item>
+<title>ICIJ members and partners honored with top journalism prize (ICIJ)</title>
+<link>https://www.icij.org/inside-icij/2025/10/icij-members-and-partners-honored-with-cabot-prize/</link>
+<description>The winners of the prestigious Cabot Prize acknowledged the important role that collaboration has played in developing investigative journalism across the Americas.</description>
+<pubDate>Thu, 09 Oct 2025 14:09:13 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/inside-icij/2025/10/icij-members-and-partners-honored-with-cabot-prize/</guid>
+</item>
+<item>
+<title>Elliptic’s Typologies Report: Identifying AI-enabled scams and frauds (Elliptic)</title>
+<link>https://www.elliptic.co/blog/elliptics-typologies-report-identifying-ai-enabled-scams-and-frauds</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/elliptics-typologies-report-identifying-ai-enabled-scams-and-frauds" title=""&gt; &lt;img alt="Elliptic’s Typologies Report: Identifying AI-enabled scams and frauds" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LP_Blog_Typologies_report_AI%20(1).png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p&gt;Innovations in artificial intelligence (AI) today are accelerating at lightning speed, impacting an ever-widening range of industries and sectors including tech, finance, medicine - with focus on leveraging AI tools to drive efficiencies, enhance decision-making, and improve customer experience.&amp;nbsp;&lt;/p&gt;</description>
+<pubDate>Thu, 09 Oct 2025 14:08:25 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/elliptics-typologies-report-identifying-ai-enabled-scams-and-frauds</guid>
+</item>
+<item>
+<title>The Growing Landscape of Seizable Crypto Assets: On-Chain Balances Linked to Criminal Activity Exceed $75 Billion (Chainalysis)</title>
+<link>https://www.chainalysis.com/blog/landscape-of-seizable-crypto-assets-2025/</link>
+<description>&lt;p&gt;Key findings Criminal balances Illicit entities hold nearly $15 billion in 2025, with stolen funds representing the largest category. Wallets&amp;#8230;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.chainalysis.com/blog/landscape-of-seizable-crypto-assets-2025/"&gt;The Growing Landscape of Seizable Crypto Assets: On-Chain Balances Linked to Criminal Activity Exceed $75 Billion&lt;/a&gt; appeared first on &lt;a href="https://www.chainalysis.com"&gt;Chainalysis&lt;/a&gt;.&lt;/p&gt;</description>
+<pubDate>Thu, 09 Oct 2025 11:45:48 -0000</pubDate>
+<guid isPermaLink='true'>https://www.chainalysis.com/blog/landscape-of-seizable-crypto-assets-2025/</guid>
+</item>
+<item>
+<title>Building a 10-billion wallet crypto-intelligence platform: Elliptic's journey with Amazon (Elliptic)</title>
+<link>https://www.elliptic.co/blog/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon" title=""&gt; &lt;img alt="Building a 10-billion wallet crypto-intelligence platform: Elliptic's journey with Amazon" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LP_Blog_Journey_with_AWS%20%281%29.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p&gt;&lt;em&gt;Published by Joey Capper (Directory of Engineering at Elliptic) in partnership with AWS.&lt;/em&gt;&lt;/p&gt;</description>
+<pubDate>Wed, 08 Oct 2025 17:22:43 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/building-a-10-billion-wallet-crypto-intelligence-platform-elliptics-journey-with-amazon</guid>
+</item>
+<item>
+<title>North Korea's crypto hackers have stolen over $2 billion in 2025 (Elliptic)</title>
+<link>https://www.elliptic.co/blog/north-korea-linked-hackers-have-already-stolen-over-2-billion-in-2025</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/north-korea-linked-hackers-have-already-stolen-over-2-billion-in-2025" title=""&gt; &lt;img alt="North Korea's crypto hackers have stolen over $2 billion in 2025" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LI_Blog_North%20Korea-linked%20hackers_V2-1.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p style="font-size: 14px;"&gt;Elliptic analysis reveals that North Korea-linked hackers have already stolen over $2 billion in cryptoassets in 2025, the largest annual total on record, with three months still to go.&amp;nbsp;&lt;/p&gt;</description>
+<pubDate>Tue, 07 Oct 2025 12:01:12 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/north-korea-linked-hackers-have-already-stolen-over-2-billion-in-2025</guid>
+</item>
+<item>
+<title>How blockchain technology can supercharge your investigative case (Elliptic)</title>
+<link>https://www.elliptic.co/blog/how-blockchain-technology-can-supercharge-your-investigative-case</link>
+<description>&lt;div class="hs-featured-image-wrapper"&gt; 
+ &lt;a class="hs-featured-image-link" href="https://www.elliptic.co/blog/how-blockchain-technology-can-supercharge-your-investigative-case" title=""&gt; &lt;img alt="How blockchain technology can supercharge your investigative case" class="hs-featured-image" src="https://www.elliptic.co/hubfs/LP_Blog_Supercharge_your_investigation.png-1.png" style="width: auto !important; float: left; margin: 0 15px 15px 0;" /&gt; &lt;/a&gt; 
+&lt;/div&gt; 
+&lt;p&gt;Crypto assets can seem intimidating to investigators encountering it for the first time in one of their cases. The perception that crypto provides criminals with anonymity and protection from law enforcement has led to assumptions that these cases require specialized technical expertise and skills that differ significantly from traditional financial investigations.&lt;/p&gt;</description>
+<pubDate>Thu, 02 Oct 2025 15:35:14 -0000</pubDate>
+<guid isPermaLink='true'>https://www.elliptic.co/blog/how-blockchain-technology-can-supercharge-your-investigative-case</guid>
+</item>
+<item>
+<title>Purported dissident who monitored Chinese activists in Germany convicted of espionage (ICIJ)</title>
+<link>https://www.icij.org/investigations/china-targets/purported-dissident-who-monitored-chinese-activists-in-germany-convicted-of-espionage/</link>
+<description>Jian Guo, a naturalized German citizen, featured in ICIJ’s China Targets investigation that revealed how Beijing uses civilians to spy on regime critics around the world.</description>
+<pubDate>Thu, 02 Oct 2025 14:03:56 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/investigations/china-targets/purported-dissident-who-monitored-chinese-activists-in-germany-convicted-of-espionage/</guid>
+</item>
+<item>
+<title>Deregulation on the Horizon for Non-Bank Financial Institutions (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/09/deregulation-on-the-horizon-for-non-bank-financial-institutions/</link>
+<description>On September 29, 2025, FinCEN issued a Notice and Request for Comment (the “Notice”) on a proposed information gathering exercise – A Survey of the Costs of Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) Compliance (the “Survey”).&amp;#160; Specifically, the Survey is intended to gather information on direct compliance costs incurred by non-bank financial...</description>
+<pubDate>Tue, 30 Sep 2025 13:50:40 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/09/deregulation-on-the-horizon-for-non-bank-financial-institutions/</guid>
+</item>
+<item>
+<title>How Chinese Money Laundering Networks Are Powering Mexican Cartels: Key Risks and Compliance Strategies for Financial Institutions (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/09/how-chinese-money-laundering-networks-are-powering-mexican-cartels-key-risks-and-compliance-strategies-for-financial-institutions/</link>
+<description>On August 28, 2025, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (“FinCEN”) released an advisory (FIN-2025-A003) alongside a comprehensive Financial Trend Analysis (“FTA”), shining a spotlight on one of today’s most significant illicit finance risks: the integration of Chinese Money Laundering Networks (“CMLNs”) into the operations of Mexico-based transnational criminal organizations, better...</description>
+<pubDate>Tue, 30 Sep 2025 12:37:07 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/09/how-chinese-money-laundering-networks-are-powering-mexican-cartels-key-risks-and-compliance-strategies-for-financial-institutions/</guid>
+</item>
+<item>
+<title>Journalists in Peru seek protection from justice system amid rising threats, harassment by officials (ICIJ)</title>
+<link>https://www.icij.org/news/2025/09/journalists-in-peru-seek-protection-from-justice-system-amid-rising-threats-harassment-by-officials/</link>
+<description>A verbal threat by Lima’s mayor against veteran reporter and ICIJ member Gustavo Gorriti rocked the journalism community.</description>
+<pubDate>Fri, 26 Sep 2025 20:06:28 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/09/journalists-in-peru-seek-protection-from-justice-system-amid-rising-threats-harassment-by-officials/</guid>
+</item>
+<item>
+<title>Syrian authorities arrest and briefly detain prominent activist as country’s president makes UN debut (ICIJ)</title>
+<link>https://www.icij.org/news/2025/09/syrian-authorities-arrest-and-briefly-detain-prominent-activist-as-countrys-president-makes-un-debut/</link>
+<description>Amer Matar, the Syria Prisons Museum co-director and a former political prisoner whose testimony helped secure the first international war crimes conviction against a Syrian official, was held after attempting to leave the country.</description>
+<pubDate>Fri, 26 Sep 2025 15:00:37 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/09/syrian-authorities-arrest-and-briefly-detain-prominent-activist-as-countrys-president-makes-un-debut/</guid>
+</item>
+<item>
+<title>Cryptocurrency exchange Garantex lives on despite sanctions, new report unveils (ICIJ)</title>
+<link>https://www.icij.org/news/2025/09/cryptocurrency-exchange-garantex-lives-on-despite-sanctions-new-report-unveils/</link>
+<description>The ostensibly shuttered exchange continues to operate through Telegram-based services that facilitate crossborder payments, according to Transparency International Russia (in exile).</description>
+<pubDate>Thu, 25 Sep 2025 05:43:51 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/09/cryptocurrency-exchange-garantex-lives-on-despite-sanctions-new-report-unveils/</guid>
+</item>
+<item>
+<title>Solitary confinement in ICE detention spiked during early months of the Trump administration, report finds (ICIJ)</title>
+<link>https://www.icij.org/news/2025/09/solitary-confinement-in-ice-detention-spiked-during-early-months-of-the-trump-administration-report-finds/</link>
+<description>Six years after ICIJ’s Solitary Voices investigation, Physicians for Human Rights found over 10,000 people were placed in solitary confinement over a 14-month period.</description>
+<pubDate>Fri, 19 Sep 2025 19:51:25 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/09/solitary-confinement-in-ice-detention-spiked-during-early-months-of-the-trump-administration-report-finds/</guid>
+</item>
+<item>
+<title>FinCEN plans to delete data on U.S. companies from beneficial ownership database (ICIJ)</title>
+<link>https://www.icij.org/news/2025/09/fincen-plans-to-delete-data-on-u-s-companies-from-beneficial-ownership-database/</link>
+<description>Five years after ICIJ published the FinCEN Files, the Trump administration has walked back significant anti-money laundering rules.</description>
+<pubDate>Wed, 17 Sep 2025 15:35:35 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/09/fincen-plans-to-delete-data-on-u-s-companies-from-beneficial-ownership-database/</guid>
+</item>
+<item>
+<title>Chelsea FC faces over six dozen charges for improper conduct under Abramovich’s ownership (ICIJ)</title>
+<link>https://www.icij.org/news/2025/09/chelsea-fc-faces-over-six-dozen-charges-for-improper-conduct-under-abramovichs-ownership/</link>
+<description>The Football Association announced it is investigating payments routed through offshore companies that were uncovered as part of ICIJ’s Cyprus Confidential investigation.</description>
+<pubDate>Fri, 12 Sep 2025 19:40:18 -0000</pubDate>
+<guid isPermaLink='true'>https://www.icij.org/news/2025/09/chelsea-fc-faces-over-six-dozen-charges-for-improper-conduct-under-abramovichs-ownership/</guid>
+</item>
+<item>
+<title>Tornado Cash Jury Deadlocked on Most Serious Charges, but Convicted Founder Roman Storm on Conspiracy to Operate an Unlicensed Money Transmitting Business (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/08/tornado-cash-jury-deadlocked-on-most-serious-charges-but-convicted-founder-roman-storm-on-conspiracy-to-operate-an-unlicensed-money-transmitting-business/</link>
+<description>On August 6th, 2025, following a four-week trial, a jury found Roman Storm, the founder of a crypto mixing service called Tornado Cash, guilty of conspiracy to operate an unlicensed money transmitting business. The jury was deadlocked and unable to reach a verdict on the two more serious charges against Storm: conspiracy to commit money...</description>
+<pubDate>Tue, 26 Aug 2025 16:22:05 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/08/tornado-cash-jury-deadlocked-on-most-serious-charges-but-convicted-founder-roman-storm-on-conspiracy-to-operate-an-unlicensed-money-transmitting-business/</guid>
+</item>
+<item>
+<title>FinCEN’s Focus on Cryptocurrency Kiosks and Financial Crime (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/08/fincens-focus-on-cryptocurrency-kiosks-and-financial-crime/</link>
+<description>On August 4, 2025, the Financial Crimes Enforcement Network (“FinCEN”) issued Notice FIN-2025-NTC1 (the “Notice”) to address mounting concerns over regulatory risks related to convertible virtual currency (“CVC”) kiosks, also known as cryptocurrency ATMs. This action is part of a broader response to the rise in money laundering, fraud, and other financial crimes linked to...</description>
+<pubDate>Mon, 25 Aug 2025 15:43:33 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/08/fincens-focus-on-cryptocurrency-kiosks-and-financial-crime/</guid>
+</item>
+<item>
+<title>U.S. Senate introduces Act to apply AML/BSA laws to art dealers and auction houses (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/08/u-s-senate-introduces-act-to-apply-aml-bsa-laws-to-art-dealers-and-auction-houses/</link>
+<description>On July 23, 2025, Senators John Fetterman (D-PA), Chuck Grassley (R-IA), Sheldon Whitehouse (D-RI), Bill Cassidy (R-LA), Andy Kim (D-NJ), and David McCormick (R-PA), introduced the federal Art Market Integrity Act (the “Act”). The Act is bipartisan legislation that would require art dealers and auction houses to comply with anti-money-laundering and counter-terrorism financing regulations under...</description>
+<pubDate>Tue, 05 Aug 2025 20:33:05 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/08/u-s-senate-introduces-act-to-apply-aml-bsa-laws-to-art-dealers-and-auction-houses/</guid>
+</item>
+<item>
+<title>FinCEN Delays And Intends To Revisit Investment Adviser Final Rule (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/07/fincen-delays-and-intends-to-revisit-investment-adviser-final-rule/</link>
+<description>We blogged last year about the Final Rule issued by the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) extending Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) requirements to certain investment advisers. &amp;#160;The Final Rule, which was set to become effective as of January 1 of next year, was the result of years...</description>
+<pubDate>Fri, 25 Jul 2025 14:40:03 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/07/fincen-delays-and-intends-to-revisit-investment-adviser-final-rule/</guid>
+</item>
+<item>
+<title>FinCEN Designates Three Mexican Financial Institutions as Primary Money Laundering Concerns Linked to Opioid Trafficking (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/07/fincen-designates-three-mexican-financial-institutions-as-primary-money-laundering-concerns-linked-to-opioid-trafficking/</link>
+<description>On June 25, 2025, the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (“FinCEN”) issued three orders designating CIBanco S.A., Intercam Banco S.A., and Vector Casa de Bolsa, S.A. de C.V. (collectively, the “Designated Institutions”) as “financial institutions of primary money laundering concern.” These measures, taken under the FEND Off Fentanyl Act of 2024,...</description>
+<pubDate>Thu, 03 Jul 2025 14:35:49 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/07/fincen-designates-three-mexican-financial-institutions-as-primary-money-laundering-concerns-linked-to-opioid-trafficking/</guid>
+</item>
+<item>
+<title>Cracking Down on CJNG: FinCEN’s Alert and OFAC’s Strategic Sanctions on Oil Smuggling (Money Laundering News)</title>
+<link>https://www.moneylaunderingnews.com/2025/05/cracking-down-on-cjng-fincens-alert-and-ofacs-strategic-sanctions-on-oil-smuggling/</link>
+<description>In a significant move to curb illegal activities at the U.S. Southwest border, the Financial Crimes Enforcement Network (FinCEN) issued an alert, on May 1, 2025, concerning oil smuggling from Mexico into the United States, orchestrated by notorious cartels such as the Cartel Jalisco Nueva Generacion (CJNG). This alert highlights the crucial role of financial...</description>
+<pubDate>Tue, 13 May 2025 01:57:09 -0000</pubDate>
+<guid isPermaLink='true'>https://www.moneylaunderingnews.com/2025/05/cracking-down-on-cjng-fincens-alert-and-ofacs-strategic-sanctions-on-oil-smuggling/</guid>
+</item>
 </channel>
 </rss>
